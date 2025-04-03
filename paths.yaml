@@ -1,4 +1,4 @@
 mappings:
- - /content/xsc-xwalk-site/:/
- - /content/xsc-xwalk-site/metadata.json:/metadata.json
- - /content/xsc-xwalk-site/redirects.json:/redirects.json
+ - /content/pbakliwal/pepboys-demo/:/
+ - /content/pbakliwal/pepboys-demo/metadata.json:/metadata.json
+ - /content/pbakliwal/pepboys-demo/redirects.json:/redirects.json
